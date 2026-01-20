@@ -6,7 +6,7 @@ import time
 
 # ================= НАСТРОЙКИ =================
 
-TOKEN = "ВСТАВЬ_СЮДА_ТОКЕН"
+TOKEN = "7953334215:AAHqDRyba_ep8kmZIeTK26t72Ym6vC5JGi0"
 ADMIN_ID = 5333130126
 MIN_WITHDRAW = 30
 REF_REWARD = 2
