@@ -235,4 +235,5 @@ def back(message):
 
 # ================= ЗАПУСК =================
 print("Бот запущен...")
+bot.remove_webhook(drop_pending_updates=True)
 bot.infinity_polling()
